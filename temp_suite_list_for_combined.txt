@@ -1,0 +1,2 @@
+D:\28_08_2026\gmtools_rtostestautomation\RTOSAutomation\src\rtos\robot_scripts\Vcumate\FCC\regressions\FCC_Seat_Passenger_Massage.robot
+D:\28_08_2026\gmtools_rtostestautomation\RTOSAutomation\src\rtos\robot_scripts\Vcumate\FCC\regressions\FCC_SEAT_Passenger_Position_Regression.robot
